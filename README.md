@@ -1,0 +1,1 @@
+# matplotib-kutubxonasi-bilan-ishlash
